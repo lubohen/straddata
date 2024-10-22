@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/straddata-site/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/straddata-site/static/js/main.ebaab828.chunk.js",
-    "main.js.map": "/straddata-site/static/js/main.ebaab828.chunk.js.map",
+    "main.js": "/straddata-site/static/js/main.631dd503.chunk.js",
+    "main.js.map": "/straddata-site/static/js/main.631dd503.chunk.js.map",
     "runtime-main.js": "/straddata-site/static/js/runtime-main.60932041.js",
     "runtime-main.js.map": "/straddata-site/static/js/runtime-main.60932041.js.map",
     "static/js/2.9c953686.chunk.js": "/straddata-site/static/js/2.9c953686.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.aa6189ce.chunk.js": "/straddata-site/static/js/3.aa6189ce.chunk.js",
     "static/js/3.aa6189ce.chunk.js.map": "/straddata-site/static/js/3.aa6189ce.chunk.js.map",
     "index.html": "/straddata-site/index.html",
-    "precache-manifest.b859402631221c71eb07dad4d88220ac.js": "/straddata-site/precache-manifest.b859402631221c71eb07dad4d88220ac.js",
+    "precache-manifest.bb633ced749693981ba851547847ed8d.js": "/straddata-site/precache-manifest.bb633ced749693981ba851547847ed8d.js",
     "service-worker.js": "/straddata-site/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/straddata-site/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.9c953686.chunk.js.LICENSE.txt": "/straddata-site/static/js/2.9c953686.chunk.js.LICENSE.txt"
@@ -19,6 +19,6 @@
     "static/js/runtime-main.60932041.js",
     "static/js/2.9c953686.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.ebaab828.chunk.js"
+    "static/js/main.631dd503.chunk.js"
   ]
 }

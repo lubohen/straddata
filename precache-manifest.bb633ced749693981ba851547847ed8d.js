@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7593ac5eafcdefea70c028219f849464",
+    "revision": "f219ce4afb2255b0a94149f014706593",
     "url": "/straddata-site/index.html"
   },
   {
-    "revision": "aef71e8b89e7300fa7c0",
+    "revision": "d16515b15e01ec59d222",
     "url": "/straddata-site/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/straddata-site/static/js/3.aa6189ce.chunk.js"
   },
   {
-    "revision": "aef71e8b89e7300fa7c0",
-    "url": "/straddata-site/static/js/main.ebaab828.chunk.js"
+    "revision": "d16515b15e01ec59d222",
+    "url": "/straddata-site/static/js/main.631dd503.chunk.js"
   },
   {
     "revision": "dbacae834a5ff3ff3142",
