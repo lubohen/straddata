@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/straddata/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/straddata/static/js/main.ec12acb7.chunk.js",
-    "main.js.map": "/straddata/static/js/main.ec12acb7.chunk.js.map",
-    "runtime~main.js": "/straddata/static/js/runtime~main.327eceef.js",
-    "runtime~main.js.map": "/straddata/static/js/runtime~main.327eceef.js.map",
-    "static/js/2.77f2a182.chunk.js": "/straddata/static/js/2.77f2a182.chunk.js",
-    "static/js/2.77f2a182.chunk.js.map": "/straddata/static/js/2.77f2a182.chunk.js.map",
-    "static/js/3.ba8b7f13.chunk.js": "/straddata/static/js/3.ba8b7f13.chunk.js",
-    "static/js/3.ba8b7f13.chunk.js.map": "/straddata/static/js/3.ba8b7f13.chunk.js.map",
-    "index.html": "/straddata/index.html",
-    "precache-manifest.86b15ab97e4fe8e2010d12b66309b8bd.js": "/straddata/precache-manifest.86b15ab97e4fe8e2010d12b66309b8bd.js",
-    "service-worker.js": "/straddata/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/straddata/static/css/main.5ecd60fb.chunk.css.map"
+    "main.css": "/straddata-site/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/straddata-site/static/js/main.ec12acb7.chunk.js",
+    "main.js.map": "/straddata-site/static/js/main.ec12acb7.chunk.js.map",
+    "runtime~main.js": "/straddata-site/static/js/runtime~main.1cafb836.js",
+    "runtime~main.js.map": "/straddata-site/static/js/runtime~main.1cafb836.js.map",
+    "static/js/2.77f2a182.chunk.js": "/straddata-site/static/js/2.77f2a182.chunk.js",
+    "static/js/2.77f2a182.chunk.js.map": "/straddata-site/static/js/2.77f2a182.chunk.js.map",
+    "static/js/3.ba8b7f13.chunk.js": "/straddata-site/static/js/3.ba8b7f13.chunk.js",
+    "static/js/3.ba8b7f13.chunk.js.map": "/straddata-site/static/js/3.ba8b7f13.chunk.js.map",
+    "index.html": "/straddata-site/index.html",
+    "precache-manifest.422c16b3d1827a26c7fb78866ef82f00.js": "/straddata-site/precache-manifest.422c16b3d1827a26c7fb78866ef82f00.js",
+    "service-worker.js": "/straddata-site/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/straddata-site/static/css/main.5ecd60fb.chunk.css.map"
   }
 }
